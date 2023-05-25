@@ -36,8 +36,8 @@
   },
   "dependencies": {
     "@reactflow/background": "workspace:*",
-    "@reactflow/controls": "workspace:*",
-    "@reactflow/core": "workspace:*",
+    "@reactflow/controls": "https://firebasestorage.googleapis.com/v0/b/am-test-5888a.appspot.com/o/reactflow-controls-11.1.13.tgz?alt=media&token=c3cbf8ea-a8d0-4b1c-b12a-c225b19c339b",
+    "@reactflow/core": "https://firebasestorage.googleapis.com/v0/b/am-test-5888a.appspot.com/o/reactflow-core-11.7.2.tgz?alt=media&token=cac7114e-3264-40f5-8181-9addbea2394e",
     "@reactflow/minimap": "workspace:*",
     "@reactflow/node-resizer": "workspace:*",
     "@reactflow/node-toolbar": "workspace:*"

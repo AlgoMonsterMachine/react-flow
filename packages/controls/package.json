@@ -38,7 +38,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@reactflow/core": "workspace:*",
+    "@reactflow/core": "https://firebasestorage.googleapis.com/v0/b/am-test-5888a.appspot.com/o/reactflow-core-11.7.2.tgz?alt=media&token=cac7114e-3264-40f5-8181-9addbea2394e",
     "classcat": "^5.0.3",
     "zustand": "^4.3.1"
   },
