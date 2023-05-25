@@ -7,7 +7,8 @@ import { useNodeId } from '../../contexts/NodeIdContext';
 import { handlePointerDown } from './handler';
 import { getHostForElement, isMouseEvent } from '../../utils';
 import { addEdge } from '../../utils/graph';
-import { type HandleProps, type Connection, type ReactFlowState, HandleType, Position } from '../../types';
+import { HandleType, Position } from '../../types';
+import type { HandleProps, Connection, ReactFlowState } from '../../types';
 import { isValidHandle } from './utils';
 import { errorMessages } from '../../contants';
 

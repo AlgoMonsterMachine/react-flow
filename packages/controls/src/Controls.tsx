@@ -1,7 +1,9 @@
-import { memo, useEffect, useState, type FC, type PropsWithChildren } from 'react';
+import { memo, useEffect, useState } from 'react';
+import type { FC, PropsWithChildren } from 'react';
 import cc from 'classcat';
 import { shallow } from 'zustand/shallow';
-import { useStore, useStoreApi, useReactFlow, Panel, type ReactFlowState } from '@reactflow/core';
+import { useStore, useStoreApi, useReactFlow, Panel } from '@reactflow/core';
+import type { ReactFlowState } from '@reactflow/core';
 
 import PlusIcon from './Icons/Plus';
 import MinusIcon from './Icons/Minus';
